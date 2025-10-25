@@ -719,19 +719,19 @@ const StatsCalculator = () => {
         </div>
 
         <div className="mt-6 bg-white rounded-lg shadow-lg p-6">
-          <h3 className="text-xl font-bold text-gray-900 mb-4">📚 Guía de Uso</h3>
+          <h3 className="text-xl font-bold text-gray-900 mb-4">Guía de Uso</h3>
           <div className="grid md:grid-cols-2 gap-4 text-sm text-gray-700">
             <div className="space-y-2">
               <h4 className="font-semibold text-blue-600">Distribución Discreta:</h4>
-              <p>Ingresa los valores de X y sus frecuencias separadas por comas. Ejemplo: valores "0,1,2,3,4" y frecuencias "3,9,10,6,2"</p>
+              <p>Ingresa los valores de X y sus frecuencias separadas por comas, Ejemplo: valores "0,1,2,3,4" y frecuencias "3,9,10,6,2"</p>
             </div>
             <div className="space-y-2">
               <h4 className="font-semibold text-purple-600">Distribución Normal:</h4>
-              <p>Ingresa la media (μ), desviación estándar (σ) y el valor de X. Selecciona el tipo de probabilidad que deseas calcular.</p>
+              <p>Ingresa la media (μ), desviación estándar (σ) y el valor de X, Selecciona el tipo de probabilidad que deseas calcular.</p>
             </div>
             <div className="space-y-2">
               <h4 className="font-semibold text-orange-600">Distribución Muestral (Media):</h4>
-              <p>Usa el Teorema del Límite Central. Ingresa μ, σ poblacionales, el tamaño de muestra n y la media muestral x̄ a evaluar.</p>
+              <p>Usa el Teorema del Límite Central, Ingresa μ, σ poblacionales, el tamaño de muestra n y la media muestral x̄ a evaluar.</p>
             </div>
             <div className="space-y-2">
               <h4 className="font-semibold text-teal-600">Distribución de Proporciones:</h4>
